@@ -14,4 +14,4 @@ images are from pixabay .
 4. lastly i've solve  code using just flex box.
 
 
-
+<--! live preview at > --> https://adnan8914.github.io/landing_page/
